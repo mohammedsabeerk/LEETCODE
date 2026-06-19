@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohammedsabeerk/LEETCODE/tree/master/0058-length-of-last-word) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mohammedsabeerk/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2974-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mohammedsabeerk/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
