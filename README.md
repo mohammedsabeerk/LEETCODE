@@ -32,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/mohammedsabeerk/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/mohammedsabeerk/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
