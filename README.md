@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/mohammedsabeerk/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
