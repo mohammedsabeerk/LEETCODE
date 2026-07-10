@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mohammedsabeerk/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/mohammedsabeerk/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/mohammedsabeerk/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mohammedsabeerk/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/mohammedsabeerk/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
